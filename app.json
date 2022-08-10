@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "acelerometro",
+    "slug": "acelerometro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.acelerometro.agripoli"
+    }
+  }
+}
